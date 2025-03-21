@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ken-patar
 - 👀 I’m interested in Website and android programming
-- 🌱 I’m currently learning bootstrap 
+- 🌱 I’m currently learning bootstrap, Javascript and React.js
 - 💞️ I’m looking to collaborate on this project website
 - 📫 How to reach me with dm my instagram @kenpatar
 
